@@ -15,13 +15,13 @@ go-reloaded is a command-line text transformation tool written in Go. It receive
 Clone the repository and navigate into the project directory:
 
 ```bash
-git clone https://acad.learn2earn.ng/git/sojetund/go-reloaded.git
+git clone <repository url>
 cd go-reloaded
 ```
 
 Run the program with an input file and an output file as arguments:
 ```bash
-go run . input.txt output.txt
+go run . sample.txt result.txt
 ```
 
 ## Project Structure
